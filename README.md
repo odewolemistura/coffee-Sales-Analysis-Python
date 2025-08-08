@@ -90,7 +90,6 @@ The coffee shop needs to understand which coffee types perform best in terms of 
 - Analyze 2022's sales decline to prevent recurrence  
 - Plan seasonal campaigns using monthly profit data
 
-
 ## Conclusion  
 This analysis uncovered actionable insights that can help the coffee shop optimize its product offerings, improve customer loyalty, and boost regional performance. Data-driven strategies based on these findings can significantly increase profitability and customer satisfaction.
 
